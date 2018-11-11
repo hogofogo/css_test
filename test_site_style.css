@@ -5,7 +5,7 @@
 }
 body {
 	margin: 0;
-	padding: 0;
+	padding: 10px;
 }
 h1 {
 	margin-bottom: 15px;
@@ -20,7 +20,7 @@ h1 {
 
 	}
 	.col-lg-4 {
-		width: 33%;
+		width: 33.33%;
 	}
 }
 
@@ -73,7 +73,7 @@ p {
 	color: black;
 	overflow: hidden;	
 	position: relative;
-	margin: 15px;
+	margin: 10px;
 	
 }
 
